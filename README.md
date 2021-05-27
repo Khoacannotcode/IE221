@@ -24,3 +24,7 @@
 > Đồ thị thể hiện phân phối tỷ lệ bbox trên mỗi class
 
 > Vẽ bbox lên ảnh và phân tích sơ bộ về số lượng và vị trí của chúng
+
+### Thư viện sử dụng:
+> pandas
+> plotly
